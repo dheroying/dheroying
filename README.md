@@ -1,2 +1,2 @@
-- 👋 Hi, I’m a web developer.
+- 👋 Hi, I’m a ios and web developer.
 
